@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">sqlitepractice3</string>
+    <string name="UsernameLabel">Username:</string>
+    <string name="UserEditBox">Enter a username</string>
+    <string name="UserButton">Add User +</string>
+    <string name="RegisterTitle">Register Form</string>
+    <string name="PasswordLabel">Password:</string>
+    <string name="PasswordInput">Password</string>
+    <string name="UserList">User List</string>
+    <string name="Apptittle">YourLocalFoodCritic</string>
+    <string name="registerLabelButton">Register</string>
+    <string name="registerLabel">Register</string>
+</resources>
